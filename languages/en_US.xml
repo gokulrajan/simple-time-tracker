@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translation>
+	<!-- SIGN IN PAGE -->
+	<sign_in>Sign in</sign_in>
+	<mail>E-mail</mail>
+	<password>Password</password>
+	
+	
+	<!-- ERRORS -->
+	<err_username_password_incorrect>The username or password is incorrect.</err_username_password_incorrect>
+</translation>
