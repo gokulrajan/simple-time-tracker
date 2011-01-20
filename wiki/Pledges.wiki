@@ -1,6 +1,8 @@
 The app would :
 
-  * be developed with simplicity in mind. No use existing of template engines, frameworks or ORM;
+  * be developed with simplicity in mind. No use existing of template engines, libraries, frameworks or ORM (maybe just jQuery ?)
   * be quick and simple to install on ftp server, with a process helping user to configure his app;
   * have a great API, letting the ability for developers to create amazing custom apps;
-  * have a plug-in system
+  * have a plug-in system;
+  * have a nice drop-box with an auto complete feature when choosing a project / client;
+  * make the process of adding a client / project really easy
