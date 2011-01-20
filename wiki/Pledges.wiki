@@ -1,0 +1,5 @@
+The app would :
+- be developed with simplicity in mind. No use existing of template engines, frameworks or ORM;
+- be quick and simple to install on ftp server, with a process helping user to configure his app;
+- have a great API, letting the ability for developers to create amazing custom apps;
+- have a plug-in system
