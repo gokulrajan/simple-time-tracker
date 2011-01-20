@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translation>
+	<!-- SIGN IN PAGE -->
+	<sign_in>Connexion</sign_in>
+	<mail>Adresse e-mail</mail>
+	<password>Mot de passe</password>
+	
+	
+	<!-- ERRORS -->
+	<err_username_password_incorrect>Le nom d'utilisateur et/ou le mot de passe est/sont incorrect(s).</err_username_password_incorrect>
+	
+	<!-- NOTICES -->
+	<login_ok>Authentification OK</login_ok>
+</translation>
